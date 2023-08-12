@@ -1,0 +1,6 @@
+Alias : Moisoft
+Key Store Password : moisoft
+Key Password : moisoft
+
+
+Certificate	Moisoft
